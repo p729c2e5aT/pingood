@@ -1,6 +1,5 @@
-# ツール・ライブラリの名前
-Pingood 
-ここから使うことができます。↓
+# Pingood
+ここから使うことができます。→
 https://pingood.herokuapp.com/
  
 ## 簡単な説明
