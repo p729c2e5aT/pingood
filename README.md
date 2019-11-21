@@ -1,22 +1,23 @@
 # ツール・ライブラリの名前
 Pingood 
-
+https://pingood.herokuapp.com/
  
 ## 簡単な説明
- ＊Pingoodは、、、、、、
+ ＊Pingoodは自分の気に入った画像を集めて一覧にすることができるアプリです。
+ ピンタレストを若干意識した作りになっています。
+ スマホでもみやすいように若干レスポンシブ対応にしております。
+ ぜひ使ってみてください。
+ これから機能を追加して他の人の投稿をみたり、お気に入り登録をしたり、コメント機能をつけていきます。
  
-***デモ***
+## できること
  
-![デモ](https://image-url.gif)
- 
-## 機能
- 
-- 機能1（UI/計算 etc ...）
-- 機能2
-- 機能3
-- ...
- 
-他の機能はこちらを参照して下さい。`awesome-tool --help`.
+- pinの登録、編集、削除
+- pinの一覧表示
+### これから追加する機能
+-  他の人の投稿を見れるようにする
+- お気に入り登録(またはいいね機能)
+- コメントの追加
+他の機能はこちらを参照して下さい。
  
 ## 必要要件
  
@@ -61,9 +62,6 @@ $ ~do anything~
  
 ## 作者
  
-[@TanakanoAnchan](https://twitter.com/TanakanoAnchan)
-mail to: xxxx@mail.com
+ ＊作成者 shima-56
+ ＊ 
  
-## ライセンス
- 
-[MIT](http://TomoakiTANAKA.mit-license.org)</blockquote>
