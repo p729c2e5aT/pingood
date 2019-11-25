@@ -30,7 +30,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use ActiveStorage variant
-# gem 'mini_magick', '~> 4.8'
+gem 'mini_magick', '~> 4.8'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
@@ -75,3 +75,5 @@ gem "paperclip", "~> 6.0.0"
 gem 'masonry-rails', '~> 0.2.4'
 # タイルレイアウト
 gem 'acts_as_votable'
+gem 'aws-sdk'
+gem 'rmagick'
