@@ -76,4 +76,3 @@ gem 'masonry-rails', '~> 0.2.4'
 # タイルレイアウト
 gem 'acts_as_votable'
 gem 'aws-sdk'
-gem 'rmagick'
