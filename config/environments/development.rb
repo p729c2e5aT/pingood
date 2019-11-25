@@ -64,4 +64,5 @@ Rails.application.configure do
   config.file_watcher = ActiveSupport::EventedFileUpdateChecker
   # public以下のファイルを公開する
   config.public_file_server.enabled = true
+  
 end
